@@ -21,7 +21,7 @@ function Nav() {
     return (
         <header>
             <h2>
-                <a data-testid="link" href="/">
+                <a href="/">
                     <span role="img" aria-label="camera">📸</span> Oh Snap!
                 </a>
             </h2>
